@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LetterCounter</string>
+    <string name="wordcount">Enter Sentence</string>
+    <string name="submit">Count Words</string>
+</resources>
